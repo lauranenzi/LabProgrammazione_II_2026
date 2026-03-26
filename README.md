@@ -22,9 +22,11 @@ Alternativamente, potete anche scrivermi per fissare un appuntamento come ricevi
 
 ## Lezioni e slides
 
-- **Lezione 1** (13/03/2025):
-     - Prima ora: Introduzione, Strumenti e cose ancora non viste di base di python | [Lezione 1](materiale_lezioni/Lezione1)
-     - Seconda e Terza ora: Numpy e settare l'ambiente di lavoro
+- **Lezione 1** (23/03/2026):
+     - Introduzione, Strumenti e cose ancora non viste di base di python, settare l'ambiente di lavoro ed inizio di Numpy | [Lezione 1](materiale_lezioni/Lezione1)
+
+- **Lezione 2** (27/03/2026):
+     -  Numpy | [materiale_lezione](materiale_lezioni/Lezione2)
 
 ## Modalità di esame
 La modalità d'esame è la seguente:
