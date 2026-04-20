@@ -37,6 +37,9 @@ Alternativamente, potete anche scrivermi per fissare un appuntamento come ricevi
 - **Lezione 5** (17/04/2026):
      -  Distribuzioni, Matplotlib e Seaborn | [materiale_lezione](materiale_lezioni/Lezione5)
 
+- **Lezione 6** (17/04/2026):
+     -  Cosa avanzate di Pandas, Matplotlib e Seaborn | [materiale_lezione](materiale_lezioni/Lezione6)
+
 ## Modalità di esame
 La modalità d'esame è la seguente:
 - 20% del voto dipenderà dal repository di github dove dovrete caricare gli esercizi proposti durante il corso. Il link del repository va consegnato entro il giorno dell'esame.
