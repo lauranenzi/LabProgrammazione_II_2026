@@ -43,6 +43,12 @@ Alternativamente, potete anche scrivermi per fissare un appuntamento come ricevi
 - **Lezione 7** (17/04/2026):
      -  Scipy | [materiale_lezione](materiale_lezioni/Lezione7)
 
+- **Lezione 7** (17/04/2026):
+     -  Bervemente Scikitlearn Plotly e poi esercizi| [materiale_lezione](materiale_lezioni/Lezione8)
+
+
+     
+
 ## Modalità di esame
 La modalità d'esame è la seguente:
 - 20% del voto dipenderà dal repository di github dove dovrete caricare gli esercizi proposti durante il corso. Il link del repository va consegnato entro il giorno dell'esame.
