@@ -71,7 +71,7 @@ Sessione Estiva:
 - 08/06/2026 in aula 4_INF_01 edificio D (50 posti) + aula 4_INF_02 edificio D (16 posti)  ore 14:00  
 - 22/06/2026 in aula 4_INF_01 edificio D (50 posti) + aula 4_INF_02 edificio D (16 posti)  ore 14:00  
 - 14/07/2026 in aula 4_INF_01 edificio D (50 posti) + aula 4_INF_02 edificio D (16 posti)  ore 14:00
-- 18/09/2026 in aula 4_INF_01 edificio D (50 posti) 
+- 18/09/2026 in aula 3A edificio H2bis ore 14:00
            
 
 
